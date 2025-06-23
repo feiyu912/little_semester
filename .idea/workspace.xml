@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2fa49f8-d6de-4a89-b3be-7cb015b2ee1d" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10cc1d98-bfcc-4ad5-8249-c2b30a9b0dcc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10cc1d98-bfcc-4ad5-8249-c2b30a9b0dcc/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10cc1d98-bfcc-4ad5-8249-c2b30a9b0dcc/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10cc1d98-bfcc-4ad5-8249-c2b30a9b0dcc/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10cc1d98-bfcc-4ad5-8249-c2b30a9b0dcc/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/common/UpdateAccountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/项目.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64d0a3fdde9c0807271d6d8ca76947ce_e052bebf6ffa0e379e2a515512e3dc05_8.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/mall_server_001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/bench.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/bench.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/abort.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/abort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/defer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/defer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/iterate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/iterate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/readable_asynckit.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_asynckit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/readable_parallel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_parallel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/readable_serial.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/readable_serial_ordered.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial_ordered.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/streamify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/streamify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/lib/terminator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/lib/terminator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/parallel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/parallel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/serial.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/serial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/serialOrdered.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/serialOrdered.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/asynckit/stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/MIGRATION_GUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/MIGRATION_GUIDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/axios.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/axios.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/axios.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/axios.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/browser/axios.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/browser/axios.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/browser/axios.cjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/browser/axios.cjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/esm/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/esm/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/esm/axios.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/esm/axios.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/esm/axios.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/esm/axios.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/esm/axios.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/esm/axios.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/node/axios.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/node/axios.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/dist/node/axios.cjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/dist/node/axios.cjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/index.d.cts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/index.d.cts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/adapters/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/adapters/adapters.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/adapters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/adapters/fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/fetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/adapters/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/cancel/CanceledError.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/cancel/CanceledError.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/cancel/isCancel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/cancel/isCancel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/Axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/Axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/AxiosError.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/AxiosError.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/AxiosHeaders.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/AxiosHeaders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/InterceptorManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/InterceptorManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/buildFullPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/buildFullPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/mergeConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/mergeConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/settle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/settle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/core/transformData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/core/transformData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/defaults/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/defaults/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/defaults/transitional.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/defaults/transitional.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/env/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/env/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/env/classes/FormData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/env/classes/FormData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/env/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/env/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/AxiosTransformStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/AxiosTransformStream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/AxiosURLSearchParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/AxiosURLSearchParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/HttpStatusCode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/HttpStatusCode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/ZlibHeaderTransformStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/ZlibHeaderTransformStream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/bind.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/bind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/buildURL.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/buildURL.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/callbackify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/callbackify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/combineURLs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/combineURLs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/composeSignals.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/composeSignals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/cookies.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/cookies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/deprecatedMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/deprecatedMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/formDataToJSON.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/formDataToJSON.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/formDataToStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/formDataToStream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/fromDataURI.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/fromDataURI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/isAbsoluteURL.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isAbsoluteURL.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/isAxiosError.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isAxiosError.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/isURLSameOrigin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/isURLSameOrigin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/null.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/null.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/parseHeaders.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/parseHeaders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/parseProtocol.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/parseProtocol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/progressEventReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/progressEventReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/readBlob.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/readBlob.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/resolveConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/resolveConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/speedometer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/speedometer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/spread.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/spread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/throttle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/toFormData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/toFormData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/toURLEncodedForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/toURLEncodedForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/trackStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/trackStream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/helpers/validator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/helpers/validator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/browser/classes/Blob.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/browser/classes/Blob.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/browser/classes/FormData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/browser/classes/FormData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/browser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/browser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/common/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/common/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/node/classes/FormData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/node/classes/FormData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/node/classes/URLSearchParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/node/classes/URLSearchParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/platform/node/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/platform/node/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/axios/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/actualApply.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/actualApply.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/actualApply.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/actualApply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/applyBind.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/applyBind.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/applyBind.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/applyBind.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/functionApply.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/functionApply.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/functionApply.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/functionApply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/functionCall.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/functionCall.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/functionCall.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/functionCall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/reflectApply.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/reflectApply.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/reflectApply.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/reflectApply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/call-bind-apply-helpers/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/call-bind-apply-helpers/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/combined-stream/License" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/License" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/combined-stream/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/combined-stream/lib/combined_stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/lib/combined_stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/combined-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/combined-stream/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/delayed-stream/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/delayed-stream/License" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/License" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/delayed-stream/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/delayed-stream/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/delayed-stream/lib/delayed_stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/lib/delayed_stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/delayed-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/get.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/get.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/get.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/set.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/set.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/set.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/test/get.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/test/get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/test/set.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/test/set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/dunder-proto/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dunder-proto/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-define-property/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-define-property/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/eval.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/eval.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/eval.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/eval.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/range.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/range.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/ref.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/ref.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/ref.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/ref.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/syntax.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/syntax.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/syntax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/syntax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/uri.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-errors/uri.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-errors/uri.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/RequireObjectCoercible.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/RequireObjectCoercible.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/RequireObjectCoercible.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/RequireObjectCoercible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/ToObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/ToObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/ToObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/ToObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/isObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/isObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/isObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/isObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-object-atoms/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-object-atoms/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/es-set-tostringtag/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-set-tostringtag/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/debug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/https.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/https.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/License" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/License" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/README.md.bak" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/README.md.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/lib/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/lib/form_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/lib/populate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/lib/populate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/form-data/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/.github/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/.github/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/implementation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/implementation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/test/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/test/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/function-bind/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/function-bind/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-intrinsic/test/GetIntrinsic.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-intrinsic/test/GetIntrinsic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/Object.getPrototypeOf.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/Object.getPrototypeOf.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/Object.getPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/Object.getPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/Reflect.getPrototypeOf.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/Reflect.getPrototypeOf.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/Reflect.getPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/Reflect.getPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/get-proto/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/get-proto/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/gOPD.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/gOPD.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/gOPD.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/gOPD.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/gopd/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gopd/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/shams.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/shams.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/shams.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/shams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/test/shams/core-js.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/test/shams/core-js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/test/shams/get-own-property-symbols.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/test/shams/get-own-property-symbols.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/test/tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-symbols/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-symbols/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/shams.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/shams.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/shams.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/shams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/test/shams/core-js.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/test/shams/core-js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/test/shams/get-own-property-symbols.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/test/shams/get-own-property-symbols.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/test/tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/has-tostringtag/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-tostringtag/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/hasown/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hasown/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/abs.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/abs.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/abs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/abs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/constants/maxArrayLength.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/constants/maxArrayLength.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/constants/maxArrayLength.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/constants/maxArrayLength.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/constants/maxSafeInteger.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/constants/maxSafeInteger.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/constants/maxSafeInteger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/constants/maxSafeInteger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/constants/maxValue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/constants/maxValue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/constants/maxValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/constants/maxValue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/floor.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/floor.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/floor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/floor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isFinite.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isFinite.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isFinite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isFinite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isInteger.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isInteger.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isInteger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isInteger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isNaN.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isNaN.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isNaN.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isNaN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isNegativeZero.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isNegativeZero.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/isNegativeZero.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/isNegativeZero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/max.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/max.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/max.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/max.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/min.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/min.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/mod.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/mod.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/mod.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/mod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/pow.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/pow.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/pow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/pow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/round.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/round.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/round.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/round.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/sign.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/sign.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/sign.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/sign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/math-intrinsics/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/math-intrinsics/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-db/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-db/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-db/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-db/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-db/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-types/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-types/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-types/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-types/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/node_modules/proxy-from-env/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-from-env/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/MallServer001Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/MallServer001Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/common/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/common/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/common/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/common/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/common/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/common/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/common/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/config/MyBatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/config/MyBatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/BusinessCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/BusinessCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/BusinessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/BusinessController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/DeliveryaddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/DeliveryaddressController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/controller/OrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/controller/OrdersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/BusinessCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/BusinessCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Deliveryaddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Deliveryaddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/entity/Ordersdetailet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/entity/Ordersdetailet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/AccountMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/BusinessCategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/BusinessCategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/BusinessMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/BusinessMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/CartMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/CartMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/CategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/CommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/CommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/DeliveryaddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/DeliveryaddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/GoodsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/GoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/OrdersMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/OrdersMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/mapper/OrdersdetailetMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/mapper/OrdersdetailetMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/BusinessCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/BusinessCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/BusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/BusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/DeliveryaddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/DeliveryaddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/OrdersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/OrdersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/OrdersdetailetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/OrdersdetailetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/BusinessCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/BusinessCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/BusinessServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/BusinessServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/DeliveryaddressServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/DeliveryaddressServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/OrdersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/OrdersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/service/impl/OrdersdetailetServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/service/impl/OrdersdetailetServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/java/com/haiyang/utils/MD5Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haiyang/utils/MD5Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/mapper/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/mapper/BusinessCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/BusinessCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/mapper/BusinessMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/BusinessMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/mapper/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/mapper/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/mapper/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/src/test/java/com/haiyang/MallServer001ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/haiyang/MallServer001ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/CodeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/MallServer001Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/MallServer001Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/common/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/common/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/common/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/common/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/common/Const.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/common/Const.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/common/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/common/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/config/MyBatisPlusConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/config/MyBatisPlusConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/BusinessCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/BusinessCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/BusinessController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/BusinessController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/CommentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/CommentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/DeliveryaddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/DeliveryaddressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/controller/OrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/controller/OrdersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Business.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Business.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/BusinessCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/BusinessCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Deliveryaddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Deliveryaddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Goods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/entity/Ordersdetailet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/entity/Ordersdetailet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/AccountMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/AccountMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/BusinessCategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/BusinessCategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/BusinessMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/BusinessMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/CartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/CartMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/CategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/CommentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/CommentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/DeliveryaddressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/DeliveryaddressMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/GoodsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/GoodsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/OrdersMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/OrdersMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/mapper/OrdersdetailetMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/mapper/OrdersdetailetMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/BusinessCategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/BusinessCategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/BusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/BusinessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/CartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/CartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/DeliveryaddressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/DeliveryaddressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/GoodsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/OrdersService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/OrdersService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/OrdersdetailetService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/OrdersdetailetService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/BusinessCategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/BusinessCategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/BusinessServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/BusinessServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/CartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/CartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/CommentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/CommentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/DeliveryaddressServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/DeliveryaddressServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/GoodsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/GoodsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/OrdersServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/OrdersServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/service/impl/OrdersdetailetServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/service/impl/OrdersdetailetServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/com/haiyang/utils/MD5Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/haiyang/utils/MD5Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/mapper/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/AccountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/mapper/BusinessCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/BusinessCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/mapper/BusinessMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/BusinessMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/mapper/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/CartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/mapper/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/classes/mapper/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/mall-server-001-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/surefire-reports/2025-06-22T14-58-16_793.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/surefire-reports/2025-06-22T14-59-08_328.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/surefire-reports/2025-06-22T15-00-37_762.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/surefire-reports/2025-06-22T15-01-10_585.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/surefire-reports/2025-06-22T15-05-49_740.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea后端/mall_server_001/target/test-classes/com/haiyang/MallServer001ApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/haiyang/MallServer001ApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/script.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/1/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/1/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/1/me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/1/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/alipay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sj10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/businessImg/sp08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat01-meishi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat02-zaocan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat03-liaolibaike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat04-dachujingxuan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat05-tinapinyinpin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat06-haixianshengxian.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat07-tangpintangshui.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat08-mifenmianguan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat09-difangxiaochi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/category/cat10-mifanzhoushi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/dcfl10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/error403.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/index_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/index_banner2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/super_member.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/wechat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/assets/项目图片.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/components/Footer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/filter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/Address.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/BusinessInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/BusinessList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/Cart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/OrderConfirm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/Payment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/src/views/Register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue 前端/mall_vue_001/vue.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\repository2" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="23" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="23" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ytJwJvZsp1eQGw71UP1kgIJbes" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MallServer001Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/IdeaProjects/mall_server_001&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.CodeGenerator.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.MallServer001Application">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haiyang.CodeGenerator" />
+      <module name="mall-server-001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haiyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallServer001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="mall-server-001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haiyang.MallServer001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f2fa49f8-d6de-4a89-b3be-7cb015b2ee1d" name="更改" comment="" />
+      <created>1750648173803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750648173803</updated>
+      <workItem from="1750648174909" duration="7252000" />
+      <workItem from="1750658117140" duration="7705000" />
+      <workItem from="1750677623582" duration="712000" />
+      <workItem from="1750678673705" duration="1716000" />
+      <workItem from="1750680429261" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

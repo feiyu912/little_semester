@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="system@localhost" uuid="816225dc-bd25-456d-9ab4-029cda965499">
+    <data-source source="LOCAL" name="system@localhost" uuid="10cc1d98-bfcc-4ad5-8249-c2b30a9b0dcc">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
-      <remarks>$PROJECT_DIR$/idea后端/mall_server_001/src/main/resources/application.yml</remarks>
+      <remarks>$PROJECT_DIR$/src/main/resources/application.yml</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/system?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=GMT</jdbc-url>
       <jdbc-additional-properties>
